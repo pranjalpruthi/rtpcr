@@ -1,2 +1,0 @@
-# rtpcr
-Molecular Probes
