@@ -1,0 +1,9 @@
+.qw-input-group{
+	margin-top:30px;
+	background-color:#eaeaea;
+	padding:20px;
+}
+
+input:disabled , select:disabled{
+	cursor: no-drop;
+}

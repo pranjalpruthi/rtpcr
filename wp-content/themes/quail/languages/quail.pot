@@ -1,0 +1,941 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Quail\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-16 06:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.3"
+
+#: inc/theme-customizer/banner.php:418
+msgid "#about"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:297
+msgid ", "
+msgstr ""
+
+#: 404.php:18
+msgid "404 Error!"
+msgstr ""
+
+#: inc/template-functions.php:179
+msgid "<span aria-hidden=\"true\"> << </span>"
+msgstr ""
+
+#: inc/template-functions.php:180
+msgid "<span aria-hidden=\"true\"> >> </span>"
+msgstr ""
+
+#: inc/theme-widgets/button.php:24
+msgid "Accepts Label and url for CTA button"
+msgstr ""
+
+#: inc/customizer.php:24
+msgid "Add media"
+msgstr ""
+
+#: inc/theme-sidebars/sidebars.php:8
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/theme-page-builder/page-builder.php:44
+msgid "Background Image"
+msgstr ""
+
+#: inc/theme-page-builder/page-builder.php:46
+msgid "Background image of the row."
+msgstr ""
+
+#: inc/theme-customizer/banner.php:452
+msgid "Banner image height"
+msgstr ""
+
+#: inc/theme-customizer/banner.php:20
+msgid "Banner Setting"
+msgstr ""
+
+#: inc/theme-customizer/color.php:198
+msgid "Banner slider text"
+msgstr ""
+
+#: inc/theme-customizer/banner.php:88
+msgid "Banner slides"
+msgstr ""
+
+#: inc/theme-customizer/banner.php:27
+msgid "Banner type"
+msgstr ""
+
+#: inc/theme-widgets/skillbar.php:41 inc/theme-widgets/skillbar.php:55
+#: inc/theme-widgets/skillbar.php:83 inc/theme-widgets/skillbar.php:97
+msgid "Bar Color:"
+msgstr ""
+
+#: inc/template-functions.php:326
+msgid "Bella Kit"
+msgstr ""
+
+#. Author of the theme
+msgid "Bellathemes"
+msgstr ""
+
+#: inc/theme-customizer/blog.php:15
+msgid "Blog Setting"
+msgstr ""
+
+#: inc/theme-customizer/color.php:34
+msgid "Body text"
+msgstr ""
+
+#: inc/theme-customizer/layout.php:46 inc/theme-customizer/layout.php:61
+msgid "Boxed"
+msgstr ""
+
+#: inc/theme-page-builder/page-builder.php:168
+msgid "Center"
+msgstr ""
+
+#: inc/theme-customizer/header.php:83 inc/theme-customizer/header.php:111
+msgid "Centered"
+msgstr ""
+
+#: inc/theme-customizer/blog.php:48
+msgid "Choose a layout"
+msgstr ""
+
+#: inc/theme-customizer/banner.php:400
+msgid "Click here"
+msgstr ""
+
+#: inc/theme-page-builder/page-builder.php:35
+#: inc/theme-page-builder/page-builder.php:177
+msgid "Color"
+msgstr ""
+
+#: inc/theme-page-builder/page-builder.php:38
+msgid "Color of the row."
+msgstr ""
+
+#: inc/theme-customizer/color.php:16
+msgid "Color Setting"
+msgstr ""
+
+#: inc/theme-widgets/skillbar.php:69
+msgid "Color:"
+msgstr ""
+
+#: inc/template-tags.php:131
+msgid "Comments"
+msgstr ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/template-functions.php:343
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/theme-page-builder/page-builder.php:20
+msgid "Container"
+msgstr ""
+
+#: inc/theme-page-builder/page-builder.php:30
+msgid "Container type"
+msgstr ""
+
+#: inc/theme-page-builder/page-builder.php:163
+msgid "Content alignment"
+msgstr ""
+
+#: inc/theme-customizer/color.php:329
+msgid "Copyright background"
+msgstr ""
+
+#: inc/theme-customizer/footer.php:49
+msgid "Copyright Quail. All rights reserved."
+msgstr ""
+
+#: inc/theme-customizer/color.php:351
+msgid "Copyright text color"
+msgstr ""
+
+#: inc/theme-widgets/button.php:38
+msgid "CTA Label:"
+msgstr ""
+
+#: inc/theme-widgets/button.php:42
+msgid "CTA URL:"
+msgstr ""
+
+#: inc/theme-sidebars/sidebars.php:6
+msgid "Default Sidebar"
+msgstr ""
+
+#: inc/theme-customizer/blog.php:125
+msgid "Default: 20 words"
+msgstr ""
+
+#: template-parts/content-list.php:28 template-parts/content-search.php:28
+msgid "Details"
+msgstr ""
+
+#: inc/theme-customizer/banner.php:472
+msgid "Disable banner overlay"
+msgstr ""
+
+#: inc/theme-customizer/blog.php:105
+msgid "Display full content on all archives."
+msgstr ""
+
+#: inc/theme-customizer/blog.php:87
+msgid "Display full content on home page"
+msgstr ""
+
+#: inc/theme-widgets/counter.php:22
+msgid "Displays counter with title, icon and number"
+msgstr ""
+
+#: inc/theme-widgets/blog.php:21
+msgid "Displays home page blog block"
+msgstr ""
+
+#: inc/theme-widgets/card.php:24
+msgid "Displays list itemes with FontAwesome icon"
+msgstr ""
+
+#: inc/theme-widgets/services.php:26
+msgid "Displays services"
+msgstr ""
+
+#: inc/theme-widgets/skillbar.php:24
+msgid "Displays skillbar with title, subtitle"
+msgstr ""
+
+#: inc/theme-widgets/team.php:25
+msgid "Displays team carousel"
+msgstr ""
+
+#: inc/theme-widgets/testimonials.php:23
+msgid "Displays testimonials carousel"
+msgstr ""
+
+#: inc/theme-customizer/blog.php:163
+msgid "Don't show  meta on index/archive"
+msgstr ""
+
+#: inc/theme-customizer/blog.php:182
+msgid "Don't show  meta on single"
+msgstr ""
+
+#: inc/theme-customizer/fonts.php:49
+msgid "e.g. https://fonts.googleapis.com/css?family=Poppins:400,600,900"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:35 inc/template-tags.php:334
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/theme-widgets/paragraph.php:65 inc/theme-widgets/heading.php:71
+msgid "Empty Heading"
+msgstr ""
+
+#: inc/theme-page-builder/page-builder.php:52
+msgid "Enable row overlay?"
+msgstr ""
+
+#: inc/theme-customizer/footer.php:60
+msgid "Enter copyright text"
+msgstr ""
+
+#: inc/theme-customizer/banner.php:109
+msgid "First slide"
+msgstr ""
+
+#: inc/theme-customizer/banner.php:186
+msgid "First slide CTA label"
+msgstr ""
+
+#: inc/theme-customizer/banner.php:204
+msgid "First slide CTA url"
+msgstr ""
+
+#: inc/theme-customizer/banner.php:168
+msgid "First slide subtitle"
+msgstr ""
+
+#: inc/theme-customizer/banner.php:150
+msgid "First slide title"
+msgstr ""
+
+#: inc/theme-customizer/fonts.php:68
+msgid "Font family"
+msgstr ""
+
+#: inc/theme-customizer/fonts.php:84
+msgid "Font sizes"
+msgstr ""
+
+#: inc/theme-widgets/counter.php:39 inc/theme-widgets/counter.php:53
+#: inc/theme-widgets/counter.php:67 inc/theme-widgets/counter.php:81
+#: inc/theme-widgets/card.php:48 inc/theme-widgets/card.php:63
+#: inc/theme-widgets/card.php:78 inc/theme-widgets/card.php:93
+msgid "FontAwesome Icon: e.g. fa fa-ambulance"
+msgstr ""
+
+#: inc/theme-customizer/fonts.php:15
+msgid "Fonts Setting"
+msgstr ""
+
+#: inc/theme-customizer/color.php:264
+msgid "Footer"
+msgstr ""
+
+#: inc/theme-customizer/color.php:286
+msgid "Footer background"
+msgstr ""
+
+#: inc/theme-customizer/color.php:307
+msgid "Footer color"
+msgstr ""
+
+#: inc/template-functions.php:201
+msgid "Footer Column "
+msgstr ""
+
+#: inc/theme-customizer/footer.php:58
+msgid "Footer copyright"
+msgstr ""
+
+#: inc/theme-customizer/footer.php:15
+msgid "Footer Setting"
+msgstr ""
+
+#: inc/theme-customizer/footer.php:33
+msgid "Footer widget area"
+msgstr ""
+
+#: inc/theme-customizer/footer.php:40 inc/theme-customizer/footer.php:75
+msgid "Four Column"
+msgstr ""
+
+#: inc/theme-customizer/banner.php:46
+msgid "Front page banner"
+msgstr ""
+
+#: inc/theme-customizer/banner.php:49 inc/theme-customizer/banner.php:72
+#: inc/theme-customizer/banner.php:488
+msgid "Full screen slider"
+msgstr ""
+
+#: inc/theme-customizer/layout.php:60
+msgid "Full Width"
+msgstr ""
+
+#: inc/theme-customizer/layout.php:45
+msgid "Full Width / Fluid"
+msgstr ""
+
+#: inc/theme-page-builder/page-builder.php:27
+msgid "Fullwidth/Fluid"
+msgstr ""
+
+#: inc/customizer.php:28
+msgid "General"
+msgstr ""
+
+#: inc/theme-customizer/fonts.php:48
+msgid "Google font url & sets"
+msgstr ""
+
+#: inc/theme-customizer/color.php:48
+msgid "Header"
+msgstr ""
+
+#: inc/theme-customizer/header.php:16
+msgid "Header Setting"
+msgstr ""
+
+#: inc/theme-customizer/header.php:54
+msgid "Header Style"
+msgstr ""
+
+#: inc/theme-customizer/header.php:33
+msgid "Header style"
+msgstr ""
+
+#: inc/theme-customizer/header.php:23
+msgid "Header type"
+msgstr ""
+
+#: inc/theme-widgets/paragraph.php:40 inc/theme-widgets/heading.php:49
+msgid "Heading Text:"
+msgstr ""
+
+#: inc/theme-widgets/heading.php:37
+msgid "Heading:"
+msgstr ""
+
+#. Name of the template
+msgid "Home"
+msgstr ""
+
+#: inc/theme-widgets/heading.php:25
+msgid "HTML heading (h1,h2,h3,h4,h5,h6) with styling"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://bellathemes.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://bellathemes.com/downloads/quail/"
+msgstr ""
+
+#: inc/theme-customizer/banner.php:50 inc/theme-customizer/banner.php:73
+#: inc/theme-customizer/banner.php:489
+msgid "Image banner"
+msgstr ""
+
+#: inc/theme-customizer/header.php:82 inc/theme-customizer/header.php:110
+msgid "Inline"
+msgstr ""
+
+#: inc/theme-customizer/banner.php:69
+msgid "Inner page banner"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/theme-widgets/skillbar.php:37
+msgid "Label 1:"
+msgstr ""
+
+#: inc/theme-widgets/skillbar.php:51
+msgid "Label 2:"
+msgstr ""
+
+#: inc/theme-widgets/skillbar.php:65
+msgid "Label 3:"
+msgstr ""
+
+#: inc/theme-widgets/skillbar.php:79
+msgid "Label 4:"
+msgstr ""
+
+#: inc/theme-widgets/skillbar.php:93
+msgid "Label 5:"
+msgstr ""
+
+#: inc/theme-widgets/counter.php:35 inc/theme-widgets/counter.php:49
+#: inc/theme-widgets/counter.php:63 inc/theme-widgets/counter.php:77
+#: inc/theme-widgets/card.php:40 inc/theme-widgets/card.php:55
+#: inc/theme-widgets/card.php:70 inc/theme-widgets/card.php:85
+msgid "Label:"
+msgstr ""
+
+#: inc/theme-page-builder/page-builder.php:24
+msgid "Large"
+msgstr ""
+
+#: inc/theme-customizer/layout.php:41
+msgid "Layout"
+msgstr ""
+
+#: inc/theme-customizer/layout.php:16 inc/theme-customizer/layout.php:23
+msgid "Layout Setting"
+msgstr ""
+
+#: inc/theme-functions.php:271
+msgid "Learn More"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:317
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/theme-page-builder/page-builder.php:167
+msgid "Left"
+msgstr ""
+
+#: inc/theme-customizer/layout.php:62
+msgid "Left Menu"
+msgstr ""
+
+#: inc/theme-customizer/sidebar.php:50 inc/theme-customizer/sidebar.php:74
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/theme-customizer/blog.php:52 inc/theme-customizer/blog.php:199
+msgid "List"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:304
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/theme-functions.php:257 inc/theme-customizer/banner.php:142
+msgid "Lorem ipsum dolor"
+msgstr ""
+
+#: inc/theme-functions.php:295 inc/theme-customizer/banner.php:253
+msgid "Lorem ipsum dolor sit amet"
+msgstr ""
+
+#: inc/theme-page-builder/page-builder.php:25
+msgid "Medium"
+msgstr ""
+
+#: inc/theme-customizer/header.php:79
+msgid "Menu / Logo Alignment"
+msgstr ""
+
+#: inc/theme-customizer/color.php:68
+msgid "Menu background"
+msgstr ""
+
+#: inc/theme-customizer/fonts.php:146
+msgid "Menu items"
+msgstr ""
+
+#: inc/theme-customizer/color.php:111
+msgid "Menu items hover"
+msgstr ""
+
+#: inc/theme-customizer/color.php:176
+msgid "Mobile menu button"
+msgstr ""
+
+#: single.php:45
+msgid "Next"
+msgstr ""
+
+#: inc/theme-customizer/banner.php:51 inc/theme-customizer/banner.php:74
+#: inc/theme-customizer/banner.php:490
+msgid "No banner"
+msgstr ""
+
+#: inc/theme-widgets/services.php:41 inc/theme-widgets/blog.php:28
+msgid "No of services ( Enter -1 to display all ):"
+msgstr ""
+
+#: inc/theme-widgets/team.php:37
+msgid "No of Team ( Enter -1 to display all ):"
+msgstr ""
+
+#: inc/theme-widgets/testimonials.php:36
+msgid "No of Testimonials ( Enter -1 to display all ):"
+msgstr ""
+
+#: inc/theme-customizer/sidebar.php:48 inc/theme-customizer/sidebar.php:72
+msgid "No sidebar"
+msgstr ""
+
+#: inc/theme-customizer/footer.php:35
+msgid ""
+"No. of widget area on footer. You can add widgets on each column from "
+"Widgets section."
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/theme-functions.php:263
+msgid "Nulla tempor et est in suscipit. Vivamus ut augue"
+msgstr ""
+
+#: inc/theme-customizer/banner.php:160
+msgid "Nulla tempor et est in suscipit. Vivamus ut augue euismod urna dapibus "
+msgstr ""
+
+#: inc/theme-widgets/counter.php:43 inc/theme-widgets/counter.php:57
+#: inc/theme-widgets/counter.php:71 inc/theme-widgets/counter.php:85
+msgid "Number:"
+msgstr ""
+
+#: inc/template-functions.php:338
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/theme-customizer/footer.php:37 inc/theme-customizer/footer.php:72
+msgid "One Column"
+msgstr ""
+
+#. 1: title.
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/template-functions.php:237
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/template-functions.php:332
+msgid "Page Builder"
+msgstr ""
+
+#: template-parts/content-page.php:22
+msgid "Pages:"
+msgstr ""
+
+#: inc/theme-customizer/fonts.php:169
+msgid "Paragraph font size"
+msgstr ""
+
+#: inc/theme-customizer/fonts.php:17
+msgid ""
+"Please take reference of google fonts: <a target=\"_blank\" href=\"https:"
+"//fonts.google.com/\">google.com/fonts</a>"
+msgstr ""
+
+#: inc/theme-functions.php:187
+msgid ""
+"Please upload banner video. Go to: Customize > Banner Setting > Add Media"
+msgstr ""
+
+#: inc/theme-customizer/blog.php:68
+msgid "Post content/excerpt"
+msgstr ""
+
+#: inc/theme-customizer/blog.php:124
+msgid "Post excerpt length"
+msgstr ""
+
+#: inc/theme-customizer/blog.php:29
+msgid "Post Layout"
+msgstr ""
+
+#: inc/theme-customizer/blog.php:143
+msgid "Post meta"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:300
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: single.php:45
+msgid "Previous"
+msgstr ""
+
+#: functions.php:54
+msgid "Primary"
+msgstr ""
+
+#. Name of the theme
+#: footer.php:33 inc/customizer.php:74 inc/template-functions.php:252
+msgid "Quail"
+msgstr ""
+
+#: inc/theme-widgets/blog.php:20
+msgid "Quail Blog"
+msgstr ""
+
+#: inc/theme-widgets/card.php:23
+msgid "Quail Card"
+msgstr ""
+
+#: inc/theme-widgets/counter.php:21
+msgid "Quail Counter"
+msgstr ""
+
+#: inc/theme-widgets/button.php:23
+msgid "Quail CTA Button"
+msgstr ""
+
+#: inc/theme-widgets/heading.php:24
+msgid "Quail Heading"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Quail is a simple, beautifully designed responsive multipuropose WordPress "
+"theme. This theme can be easily customized to make blog, news,  business, "
+"corporate, yoga, construction, education, portfolio, travel and tour, beauty,"
+" fitness and many more websites. We support via online chat, email, support "
+"forum."
+msgstr ""
+
+#: inc/theme-widgets/paragraph.php:24
+msgid "Quail Paragraph"
+msgstr ""
+
+#: inc/theme-widgets/services.php:25
+msgid "Quail Services"
+msgstr ""
+
+#: inc/theme-widgets/skillbar.php:23
+msgid "Quail Skillbar"
+msgstr ""
+
+#: inc/theme-widgets/team.php:24
+msgid "Quail Team"
+msgstr ""
+
+#: inc/theme-widgets/testimonials.php:22
+msgid "Quail Testimonials"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/theme-page-builder/page-builder.php:169
+msgid "Right"
+msgstr ""
+
+#: inc/theme-customizer/layout.php:63
+msgid "Right Menu"
+msgstr ""
+
+#: inc/theme-customizer/sidebar.php:49 inc/theme-customizer/sidebar.php:73
+msgid "Right sidebar"
+msgstr ""
+
+#: searchform.php:2
+msgid "Search"
+msgstr ""
+
+#. %s: search query.
+#: search.php:35
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/theme-customizer/banner.php:221
+msgid "Second slide"
+msgstr ""
+
+#: inc/theme-customizer/banner.php:298
+msgid "Second slide CTA Label"
+msgstr ""
+
+#: inc/theme-customizer/banner.php:316
+msgid "Second slide CTA URL"
+msgstr ""
+
+#: inc/theme-customizer/banner.php:279
+msgid "Second slide subtitle"
+msgstr ""
+
+#: inc/theme-customizer/banner.php:261
+msgid "Second slide title"
+msgstr ""
+
+#: functions.php:55
+msgid "Secondary"
+msgstr ""
+
+#: inc/theme-functions.php:301 inc/theme-customizer/banner.php:271
+msgid "Sed pretium risus id lorem eleifend vehicula Nulla nec"
+msgstr ""
+
+#: inc/theme-customizer/layout.php:43
+msgid "Select page layout"
+msgstr ""
+
+#: inc/theme-customizer/color.php:233 inc/theme-customizer/sidebar.php:25
+msgid "Sidebar"
+msgstr ""
+
+#: inc/theme-customizer/color.php:222
+msgid "Sidebar background"
+msgstr ""
+
+#: inc/theme-customizer/color.php:252
+msgid "Sidebar color"
+msgstr ""
+
+#: inc/theme-customizer/sidebar.php:44
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/theme-customizer/sidebar.php:16
+msgid "Sidebar Setting"
+msgstr ""
+
+#: inc/theme-widgets/paragraph.php:25
+msgid "Single Paragraph"
+msgstr ""
+
+#: inc/theme-customizer/fonts.php:125
+msgid "Site description"
+msgstr ""
+
+#: inc/customizer.php:23
+msgid "Site name, tagline and logo"
+msgstr ""
+
+#: inc/theme-customizer/fonts.php:104
+msgid "Site title"
+msgstr ""
+
+#: inc/theme-widgets/skillbar.php:45 inc/theme-widgets/skillbar.php:59
+#: inc/theme-widgets/skillbar.php:73 inc/theme-widgets/skillbar.php:87
+#: inc/theme-widgets/skillbar.php:101
+msgid "Skill(%):"
+msgstr ""
+
+#: inc/theme-customizer/banner.php:129
+msgid "Slider image 1"
+msgstr ""
+
+#: inc/theme-customizer/banner.php:241
+msgid "Slider image 2"
+msgstr ""
+
+#: inc/theme-customizer/banner.php:352
+msgid "Slider image 3"
+msgstr ""
+
+#: inc/theme-page-builder/page-builder.php:26
+msgid "Small"
+msgstr ""
+
+#: functions.php:56
+msgid "Social"
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/theme-customizer/header.php:58 inc/theme-customizer/header.php:97
+msgid "Static"
+msgstr ""
+
+#: inc/theme-customizer/header.php:57 inc/theme-customizer/header.php:96
+msgid "Sticky"
+msgstr ""
+
+#: inc/theme-widgets/card.php:44 inc/theme-widgets/card.php:59
+#: inc/theme-widgets/card.php:74 inc/theme-widgets/card.php:89
+msgid "Sub Label:"
+msgstr ""
+
+#: inc/theme-customizer/color.php:155
+msgid "Sub-menu background"
+msgstr ""
+
+#: inc/theme-customizer/color.php:133
+msgid "Sub-menu items"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:307
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: footer.php:33
+#, php-format
+msgid "Theme %s"
+msgstr ""
+
+#: inc/theme-demo/one-click-demo-import.php:23
+msgid "Theme Demo"
+msgstr ""
+
+#: inc/theme-customizer/fonts.php:30
+msgid "Theme font"
+msgstr ""
+
+#: inc/theme-customizer/banner.php:332
+msgid "Third slide"
+msgstr ""
+
+#: inc/theme-customizer/banner.php:408
+msgid "Third slide CTA label"
+msgstr ""
+
+#: inc/theme-customizer/banner.php:426
+msgid "Third slide CTA URL"
+msgstr ""
+
+#: inc/theme-customizer/banner.php:390
+msgid "Third slide subtitle"
+msgstr ""
+
+#: inc/theme-customizer/banner.php:372
+msgid "Third slide title"
+msgstr ""
+
+#: inc/theme-page-builder/page-builder.php:172
+msgid "This setting depends on the content, it may or may not work"
+msgstr ""
+
+#: inc/theme-customizer/footer.php:39 inc/theme-customizer/footer.php:74
+msgid "Three Column"
+msgstr ""
+
+#: inc/theme-customizer/color.php:90
+msgid "Top level menu items"
+msgstr ""
+
+#: inc/theme-page-builder/page-builder.php:12
+msgid "Top/Bottom padding"
+msgstr ""
+
+#: inc/theme-customizer/footer.php:38 inc/theme-customizer/footer.php:73
+msgid "Two Column"
+msgstr ""
+
+#: inc/customizer.php:75
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: inc/theme-page-builder/page-builder.php:180
+msgid "Widget font color."
+msgstr ""
+
+#: inc/theme-customizer/banner.php:89
+msgid ""
+"You can add up to 3 slides. For more slides or to use shortcode from third "
+"party slider plugin please upgrade to pro."
+msgstr ""
+
+#: inc/theme-functions.php:175
+msgid "Your browser does not support the video tag."
+msgstr ""
